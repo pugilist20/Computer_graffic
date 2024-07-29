@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lab6" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lab6" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lab6" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glfw-3.4.bin.WIN32/include" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glew-1.13.0/include" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glm-0.9.7.1/glm" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glm-0.9.7.1" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glm-0.9.7.1/glm/gtc" />
+		</Compiler>
+		<Linker>
+			<Add option="-lopengl32 -lglu32 -lfreeglut" />
+			<Add library="winmm" />
+			<Add library="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glew-1.13.0/lib/Release/x64/glew32.lib" />
+			<Add library="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glew-1.13.0/lib/Release/x64/glew32s.lib" />
+			<Add library="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glfw-3.4.bin.WIN32/lib-mingw-w64/libglfw3dll.a" />
+			<Add library="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glfw-3.4.bin.WIN32/lib-mingw-w64/libglfw3.a" />
+			<Add library="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glfw-3.4.bin.WIN32/lib-mingw-w64/glfw3.dll" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glfw-3.4.bin.WIN32/lib-mingw-w64" />
+			<Add directory="C:/Users/Рузаль/Desktop/КАИ/Компьютерная графика/Lab6_few/Lab6/glew-1.13.0/lib/Release/x64" />
+		</Linker>
+		<Unit filename="GLee/GLee.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maths/MATRIX4X4.cpp" />
+		<Unit filename="Maths/VECTOR3D.cpp" />
+		<Unit filename="TIMER.cpp" />
+		<Unit filename="external_libs-master/soil/SOIL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="external_libs-master/soil/image_DXT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="external_libs-master/soil/image_helper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="external_libs-master/soil/stb_image_aug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="load_particle.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="scene.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

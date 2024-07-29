@@ -1,0 +1,700 @@
+# depslib dependency file v1.0
+1712515466 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\main.cpp
+	<windows.h>
+	<stdio.h>
+	"GLee/GLee.h"
+	<GL/glut.h>
+	"Maths/Maths.h"
+	"TIMER.h"
+	"FPS_COUNTER.h"
+	"scene.h"
+	"main.h"
+
+1710265942 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\glee\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\maths.h
+	<math.h>
+	"VECTOR2D.h"
+	"VECTOR3D.h"
+	"VECTOR4D.h"
+	"MATRIX4X4.h"
+	"PLANE.h"
+	"COLOR.h"
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\vector2d.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\vector3d.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\vector4d.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\matrix4x4.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\plane.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\color.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\timer.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\fps_counter.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\scene.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\main.h
+
+1710282360 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\glee\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1710265912 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\timer.cpp
+	<windows.h>
+	<mmsystem.h>
+	"TIMER.h"
+
+1712516364 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\scene.cpp
+	<windows.h>
+	<stdio.h>
+	"GL/glut.h"
+	"Maths/Maths.h"
+	"scene.h"
+
+1710265932 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\matrix4x4.cpp
+	<memory.h>
+	"Maths.h"
+
+1710265932 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6\maths\vector3d.cpp
+	"Maths.h"
+
+1710282360 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glee\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1710265942 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glee\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1715697439 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\main.cpp
+	<windows.h>
+	<stdio.h>
+	"GLee/GLee.h"
+	<GL/glut.h>
+	"Maths/Maths.h"
+	"TIMER.h"
+	"FPS_COUNTER.h"
+	"scene.h"
+	"main.h"
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\maths.h
+	<math.h>
+	"VECTOR2D.h"
+	"VECTOR3D.h"
+	"VECTOR4D.h"
+	"MATRIX4X4.h"
+	"PLANE.h"
+	"COLOR.h"
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\vector2d.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\vector3d.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\vector4d.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\matrix4x4.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\plane.h
+
+1710265932 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\color.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\timer.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\fps_counter.h
+
+1715088125 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\scene.h
+
+1710265912 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\main.h
+
+1710265932 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\matrix4x4.cpp
+	<memory.h>
+	"Maths.h"
+
+1710265932 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\maths\vector3d.cpp
+	"Maths.h"
+
+1715697458 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\scene.cpp
+	<windows.h>
+	<stdio.h>
+	"GL/glut.h"
+	"Maths/Maths.h"
+	"scene.h"
+	<GL/glext.h>
+	<C:\Users\Рузаль\Desktop\КАИ\Компьютерная графика\Lab6_few\Lab6\external_libs-master\soil\SOIL.h>
+
+1712517801 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\timer.cpp
+	<windows.h>
+	<mmsystem.h>
+	"TIMER.h"
+
+1490695320 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1490695320 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\image_dxt.h
+
+1490695320 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1490695320 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\image_helper.h
+
+1490695320 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1490695320 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\soil.h
+
+1490695320 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\stb_image_aug.h
+	<stdio.h>
+
+1490695320 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1490695320 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\stbi_dds_aug.h
+
+1490695320 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\external_libs-master\soil\stbi_dds_aug_c.h
+
+1715021706 source:c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\load_particle.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"glm-0.9.7.1/glm/glm.hpp"
+	"glm-0.9.7.1/glm/gtc/matrix_transform.hpp"
+	"glm-0.9.7.1/glm/gtx/norm.hpp"
+	"common/shader.hpp"
+	"common/texture.hpp"
+	"common/controls.hpp"
+
+1710370723 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glew-1.13.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1710368309 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glfw-3.4.bin.win32\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\_fixes.hpp
+	<cmath>
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\precision.hpp
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\_swizzle.hpp
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\_swizzle_func.hpp
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec2.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec3.inl
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec4_sse2.inl
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec4_avx.inl
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec4_avx2.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat2x2.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat2x3.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat2x4.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat3x2.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat3x3.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat3x4.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat4x2.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat4x3.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_mat4x4.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_vec1.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_vector_relational.inl
+	<limits>
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\common.hpp
+	"detail/func_common.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1710329986 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\type_half.inl
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1710329984 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1710329985 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1710329987 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1710329987 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1710329987 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtc\constants.inl
+	<limits>
+
+1710329987 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1710329989 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtx\norm.hpp
+	"../glm.hpp"
+	"../gtx/quaternion.hpp"
+	"norm.inl"
+
+1710329989 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtx\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/quaternion.hpp"
+	"../gtx/norm.hpp"
+	"quaternion.inl"
+
+1710329987 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1710329987 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1710329989 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtx\quaternion.inl
+	<limits>
+	"../gtc/constants.hpp"
+
+1710329989 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\glm-0.9.7.1\glm\gtx\norm.inl
+
+1710947217 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\common\shader.hpp
+
+1710947217 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\common\texture.hpp
+
+1710947217 c:\users\Рузаль\desktop\КАИ\Компьютерная графика\lab6_few\lab6\common\controls.hpp
+
